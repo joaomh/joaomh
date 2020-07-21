@@ -4,4 +4,4 @@
 - :computer: :robot: - **AI, Machine Learning, Robotics and Data Science Enthusiastic**
 - :mortar_board::wrench::microscope: - Mechatronics Engineer - University of São Paulo
 - :books: - Currently, a student at Udacity in the courses of Deep Learning, Machine Learning
-- :movie_camera: - YouTuber  [2001 Engenharia](https://www.youtube.com/channel/UCZyFebN0_gF2yy5fhVhlXtA)
+- :movie_camera: Content Creator at YouTube  [2001 Engenharia](https://www.youtube.com/channel/UCZyFebN0_gF2yy5fhVhlXtA)
