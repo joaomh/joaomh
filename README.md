@@ -7,6 +7,5 @@
 - :movie_camera: Content Creator at YouTube  [2001 Engenharia](https://www.youtube.com/channel/UCZyFebN0_gF2yy5fhVhlXtA)
 
 ### Find me elsewhere 🌎
-
 💼 [LinkedIn](https://www.linkedin.com/in/joaomh/) <br>
 
