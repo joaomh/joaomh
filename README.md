@@ -1,5 +1,5 @@
 
-<img src="/assets/hello_git.png" height="80" width="300" />
+<img src="./assets/hello_git.png" height="80" width="300" />
 
 ### Heey, I'm João Pinheiro :relaxed: :v: <!---<span>&#x1f1e7;&#x1f1f7;</span> --> 🇧🇷
 - :robot: - **AI, Machine Learning, Robotics and Data Science Enthusiastic** :computer:
