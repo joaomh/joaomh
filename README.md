@@ -1,5 +1,7 @@
 
-![](./assets/hello_git.png=100x100)
+
+<img src="./assets/hello_git.png" width="500" />
+
 ### Heey, I'm João Pinheiro :relaxed: :v: <!---<span>&#x1f1e7;&#x1f1f7;</span> --> 🇧🇷
 - :robot: - **AI, Machine Learning, Robotics and Data Science Enthusiastic** :computer:
 - :mortar_board: - Mechatronics Engineer :wrench::microscope: - University of São Paulo
