@@ -6,7 +6,7 @@
 - :mortar_board: - Future Mechatronics Engineer :wrench::microscope: - University of São Paulo
 - :books: - Currently, a student at Udacity in the nanodegree of Deep Learning
 - 🌱 - Alwyas learning new things
-- :movie_camera: - Content Creator at YouTube  [2001 Engenharia](https://www.youtube.com/channel/UCZyFebN0_gF2yy5fhVhlXtA)
+- :movie_camera: - Content Creator at [2001 Engenharia](https://www.youtube.com/2001Engenharia)
 - ⚡ Fun fact: I love to fantasy / sci fic books
 
 ### Connect with me:
