@@ -18,6 +18,11 @@
 
 <br />
 
+---
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaomh&?count_private=true)
+
+
 [website]: https://github.com/2001engenharia
 [youtube]: https://www.youtube.com/2001Engenharia
 [instagram]: https://instagram.com/2001Engenharia
