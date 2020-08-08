@@ -1,7 +1,7 @@
 name: Latest YouTube workflow
 on:
   schedule:
-    # Runs every hour
+    # Runs every week
     - cron: '0 0 * * 0'
   workflow_dispatch:
 
