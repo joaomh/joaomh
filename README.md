@@ -28,6 +28,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Aula 2 - Sistemas Dinâmicos, Transformada de Laplace e Função Transferência](https://www.youtube.com/watch?v=eHBoTUiIBY8)
+- [Estrutura de Dados e Algoritmos em Python #03 - Lista Encadeada ( Linked List)](https://www.youtube.com/watch?v=cOQxaSGTMK0)
+- [Aula 1 - Sistemas de Controle Introdução, Malha Aberta e Malha Fechada](https://www.youtube.com/watch?v=1knAXQ0j5M4)
+- [Curso de MATLAB #89 - Regressão Linear](https://www.youtube.com/watch?v=orOQp2T0NRU)
+- [Curso de MATLAB #88 - Dados Ciculares](https://www.youtube.com/watch?v=3U5O29NplvY)
 <!-- YOUTUBE:END -->
 
 ---
