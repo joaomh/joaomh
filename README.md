@@ -49,7 +49,7 @@
 ---
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaomh&?count_private=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomh)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://github.com/2001engenharia
 [youtube]: https://www.youtube.com/2001Engenharia
