@@ -54,4 +54,4 @@
 [website]: https://github.com/2001engenharia
 [youtube]: https://www.youtube.com/2001Engenharia
 [instagram]: https://instagram.com/2001Engenharia
-[linkedin]: https://linkedin.com/in/2001Engenharia
+[linkedin]: https://linkedin.com/in/joaomh
