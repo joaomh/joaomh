@@ -7,7 +7,7 @@
 - :books: - Currently, a student at Udacity in the nanodegree of Deep Learning
 - 🌱 - Alwyas learning new things
 - :movie_camera: - Content Creator at [2001 Engenharia](https://www.youtube.com/2001Engenharia)
-- ⚡ Fun fact: I love to fantasy / sci fic books
+- ⚡ Fun fact: I love fantasy / sci fic books
 
 ### Connect with me:
 
