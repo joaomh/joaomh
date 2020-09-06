@@ -35,11 +35,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Estrutura de Dados e Algoritmos em Python #05 - Pilhas ( Stacks )](https://www.youtube.com/watch?v=oeeKHeE5VjY)
+- [Aula 5 - Critério de Estabilidade de Routh-Hurwitz](https://www.youtube.com/watch?v=Pbzc7R6ZNww)
 - [Aula 4 - Especificações de Desempenho](https://www.youtube.com/watch?v=pnMdyekvVBY)
 - [Estrutura de Dados e Algoritmos em Python #04 - Resolvendo Exercícios de Arryas do HackerRank](https://www.youtube.com/watch?v=E6fZv_GD9yQ)
 - [Aula 3 - Introdução a Estabilidade](https://www.youtube.com/watch?v=ChkvdU8Nh_k)
-- [Aula 2 - Sistemas Dinâmicos, Transformada de Laplace e Função Transferência](https://www.youtube.com/watch?v=eHBoTUiIBY8)
-- [Estrutura de Dados e Algoritmos em Python #03 - Lista Encadeada ( Linked List)](https://www.youtube.com/watch?v=cOQxaSGTMK0)
 <!-- YOUTUBE:END -->
 
 ---
