@@ -1,5 +1,5 @@
 ### Hi there, I'm João Pinheiro :relaxed: :v: <!---<span>&#x1f1e7;&#x1f1f7;</span> --> 🇧🇷
-- :robot: - Just an **AI, and Robotics and Enthusiastic** :computer:
+- :robot: - Just an **AI and Robotics Enthusiastic** :computer:
 - :mortar_board: - Future Mechatronics Engineer :wrench::microscope: - University of São Paulo
 - :books: - Currently, a student at Udacity in the nanodegree of Deep Learning
 - 🌱 - Always learning new things
