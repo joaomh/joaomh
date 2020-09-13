@@ -34,11 +34,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Estrutura de Dados e Algoritmos em Python #07 - Implementando Pilhas (Stacks) e Filas (Queue).](https://www.youtube.com/watch?v=mx_ckrxUn8k)
+- [Estrutura de Dados e Algoritmos em Python #06 - Filas ( Queue )](https://www.youtube.com/watch?v=QHxCdtSyK2s)
+- [Aula 7 - Sistema de Controle, Introdução ao Simulink - Projeto de um Controlador Proporcional.](https://www.youtube.com/watch?v=knbf3Uc1XfE)
+- [Aula 6 - Projeto de um Controlador Utilizando o Critério de Routh-Hurwitz](https://www.youtube.com/watch?v=LQ4BPl4XZXI)
 - [Estrutura de Dados e Algoritmos em Python #05 - Pilhas ( Stacks )](https://www.youtube.com/watch?v=oeeKHeE5VjY)
-- [Aula 5 - Critério de Estabilidade de Routh-Hurwitz](https://www.youtube.com/watch?v=Pbzc7R6ZNww)
-- [Aula 4 - Especificações de Desempenho](https://www.youtube.com/watch?v=pnMdyekvVBY)
-- [Estrutura de Dados e Algoritmos em Python #04 - Resolvendo Exercícios de Arryas do HackerRank](https://www.youtube.com/watch?v=E6fZv_GD9yQ)
-- [Aula 3 - Introdução a Estabilidade](https://www.youtube.com/watch?v=ChkvdU8Nh_k)
 <!-- YOUTUBE:END -->
 
 ---
