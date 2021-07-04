@@ -1,5 +1,5 @@
 ### Hi there, I'm João Pinheiro :relaxed: :v: <!---<span>&#x1f1e7;&#x1f1f7;</span> --> 🇧🇷
-- :robot: - Just an **AI and Robotics Enthusiastic** :computer:
+- :robot: - Just an **AI and Data Science Enthusiastic** :computer:
 - :mortar_board: - Future Mechatronics Engineer :wrench::microscope: - University of São Paulo
 - 🌱 - Always learning new things
 - :movie_camera: - Content Creator at [2001 Engenharia](https://www.youtube.com/2001Engenharia)
