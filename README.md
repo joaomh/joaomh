@@ -43,8 +43,13 @@
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaomh&?count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaomh&?count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+ <div>
+  <a href="https://github.com/joaomh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomh&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomh&layout=compact&langs_count=7&theme=monokai"/>
+</div>
 
 [website]: https://github.com/2001engenharia
 [youtube]: https://www.youtube.com/2001Engenharia
