@@ -8,7 +8,7 @@
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="YouTube" width="22px" src="https://trucao.com.br/wp-content/uploads/2018/07/youtube-logo.png" />][youtube]
-[<img align="left" alt="web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="web" width="22px" src="https://avatars.githubusercontent.com/u/64713379?s=200&v=4" />][website]
 
 <br />
 
