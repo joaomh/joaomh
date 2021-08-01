@@ -6,10 +6,9 @@
 - ⚡ Fun fact: I love fantasy / sci fic books & playing guitar :guitar:
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="YouTube" width="22px" src="https://trucao.com.br/wp-content/uploads/2018/07/youtube-logo.png" />][youtube]
+[<img align="left" alt="web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
@@ -58,5 +57,4 @@
 
 [website]: https://github.com/2001engenharia
 [youtube]: https://www.youtube.com/2001Engenharia
-[instagram]: https://instagram.com/2001Engenharia
 [linkedin]: https://linkedin.com/in/joaomh
