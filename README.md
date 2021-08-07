@@ -6,9 +6,11 @@
 - ⚡ Fun fact: I love fantasy / sci fic books & playing guitar :guitar:
 
 ### Connect with me:
-[<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" />][linkedin]
+<!-- [<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="YouTube" width="30px" src="https://trucao.com.br/wp-content/uploads/2018/07/youtube-logo.png" />][youtube]
 [<img align="left" alt="web" width="30px" src="https://avatars.githubusercontent.com/u/64713379?s=200&v=4" />][website]
+ -->
+<a href="https://www.youtube.com/2001Engenharia"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/joaomh/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <br />
 
@@ -54,7 +56,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomh&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomh&layout=compact&langs_count=7&theme=monokai"/>
 </div>
-
+<!-- 
 [website]: https://github.com/2001engenharia
 [youtube]: https://www.youtube.com/2001Engenharia
-[linkedin]: https://linkedin.com/in/joaomh
+[linkedin]: https://linkedin.com/in/joaomh -->
