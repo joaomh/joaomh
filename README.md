@@ -48,7 +48,6 @@
 <!-- YOUTUBE:END -->
 
 ---
-
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaomh&?count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
  <div>
