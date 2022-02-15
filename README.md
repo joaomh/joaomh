@@ -1,5 +1,5 @@
 ### Hi there, I'm João Pinheiro :relaxed: :v: <!---<span>&#x1f1e7;&#x1f1f7;</span> --> 🇧🇷
-- :robot: - Just an **AI and Data Science Enthusiastic** :computer:
+- :robot: - Just an **AI and Data Science Student** :computer:
 - <img height="20" src="https://www.notion.so/image/https%3A%2F%2Fwww.itau.com.br%2Fcontent%2Fdam%2Fitau%2Fvarejo%2Flogo-itau-varejo-desktop.png?table=block&id=62aeacb2-75c7-4e0f-a5b3-402b6d32a5d7&spaceId=2dca56b8-4484-41ff-8fb1-6cfb82a4c524&width=250&userId=1c47c827-f8d2-4367-a367-09289628dd38&cache=v2" /> - Intern at Itaú Unibanco
 - :mortar_board: - Future Mechatronics Engineer :wrench::microscope: - University of São Paulo
 - 🌱 - Always learning new things
