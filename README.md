@@ -12,6 +12,7 @@
 [<img align="left" alt="YouTube" width="30px" src="https://trucao.com.br/wp-content/uploads/2018/07/youtube-logo.png" />][youtube]
 [<img align="left" alt="web" width="30px" src="https://avatars.githubusercontent.com/u/64713379?s=200&v=4" />][website]
  -->
+ <!--
 <a href="https://www.youtube.com/2001Engenharia"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/joaomh/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
 
 <br />
