@@ -14,7 +14,6 @@
  -->
  <!--
 <a href="https://www.youtube.com/2001Engenharia"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/yt_logo_jjgys4.png" alt="drawing" width="100"/>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/joaomh/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
-
 <br />
 <!--
 ### Languages and Tools:
@@ -38,9 +37,7 @@
 <!--<img align="left" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" />
 <img align="left" alt="GitLab" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/gitlab/gitlab-original.svg" />-->
-
 <br />
-
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Estrutura de Dados e Algoritmos em Python #07 - Implementando Pilhas (Stacks) e Filas (Queue).](https://www.youtube.com/watch?v=mx_ckrxUn8k)
