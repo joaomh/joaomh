@@ -37,7 +37,9 @@
 <!--<img align="left" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/github/github-original.svg" />
 <img align="left" alt="GitLab" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/gitlab/gitlab-original.svg" />-->
+
 <br />
+
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Estrutura de Dados e Algoritmos em Python #07 - Implementando Pilhas (Stacks) e Filas (Queue).](https://www.youtube.com/watch?v=mx_ckrxUn8k)
