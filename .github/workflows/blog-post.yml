@@ -1,14 +1,24 @@
-name: Latest blog post workflow
+name: "📚 latest Blog"
+
 on:
-  schedule: # Run workflow automatically
-    - cron: "0 * * * *" # Runs every hour, on the hour
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */24 * * *" # Runs Every 24 Hours
+
 jobs:
-  update-readme-with-blog:
-    name: Update README with the latest blog posts
+  update_blogs:
+    name: "Update With Latest Blogs"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: joaomh/blog-post-workflow@master
+      - name: "📥  Fetching Repository Contents"
+        uses: actions/checkout@main
+
+      - name: "📚  Hashnode Updater"
+        uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
-          max_post_count: 10
-          feed_list: "https://joaomh.github.io/"
+          USERNAME: "joaomh" # Hashnode Username
+          COUNT: 4 # MAX Visisble
+          STYLE: "blog-left"
+          BLOG_URL: "https://joaomh.github.io/"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
