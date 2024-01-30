@@ -13,8 +13,6 @@ jobs:
       - name: "📥  Fetching Repository Contents"
         uses: actions/checkout@main
 
-      - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
           USERNAME: "joaomh" # Hashnode Username
           COUNT: 4 # MAX Visisble
