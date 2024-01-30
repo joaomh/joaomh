@@ -39,6 +39,9 @@
 <img align="left" alt="GitLab" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/gitlab/gitlab-original.svg" />-->
 
 <br />
+### Latest Blogs
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -48,6 +51,7 @@
 - [Aula 6 - Projeto de um Controlador Utilizando o Critério de Routh-Hurwitz](https://www.youtube.com/watch?v=LQ4BPl4XZXI)
 - [Estrutura de Dados e Algoritmos em Python #05 - Pilhas ( Stacks )](https://www.youtube.com/watch?v=oeeKHeE5VjY)
 <!-- YOUTUBE:END -->
+
 
 ---
 
