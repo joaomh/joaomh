@@ -26,9 +26,9 @@ jobs:
 
       - name: Update README
         run: |
-          echo '<!--BLOG-POST-LIST:START:github-pages-->' > README.md
-          cat https://joaomh.github.io/index.html >> README.md
-          echo '<!--BLOG-POST-LIST:START:github-pages-->' >> README.md
+          echo '<!--BLOG:START:github-pages-->' > README.md
+          curl https://joaomh.github.io/index.html >> README.md
+          echo '<!--BLOG:START:github-pages-->' >> README.md
 
       - name: Commit and push changes
         run: |
