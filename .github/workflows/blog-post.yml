@@ -1,19 +1,39 @@
-name: Latest blog post workflow
+name: Update README with GitHub Pages
+
 on:
-  workflow_dispatch:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+  push:
+    branches:
+      - main # Change this to your default branch
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
         with:
-          # Your RSS feed url
-          feed_list: "https://joaomh.github.io/index.html"
-          # Maximum number of posts you want
-          max_post_count: 3
+          node-version: '14'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build GitHub Pages
+        run: npm run build # Modify this command based on how you generate your GitHub Pages content
+
+      - name: Update README
+        run: |
+          echo '<!--BLOG-POST-LIST:START:github-pages-->' > README.md
+          cat https://joaomh.github.io/index.html >> README.md
+          echo '<!--BLOG-POST-LIST:START:github-pages-->' >> README.md
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with GitHub Pages"
+          git push
