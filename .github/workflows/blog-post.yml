@@ -14,6 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # Your RSS feed url
-          feed_list: "view-source:https://joaomh.github.io/"
+          feed_list: "https://joaomh.github.io/index.html"
           # Maximum number of posts you want
           max_post_count: 3
