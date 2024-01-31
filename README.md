@@ -39,11 +39,11 @@
 <img align="left" alt="GitLab" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/gitlab/gitlab-original.svg" />-->
 
 <br />
-### Latest Blogs
-<!-- BLOG-POST-LIST:START -->
+
+### Latest Blogs Post
 - [Boosted Trees: XGBoost vs. CatBoost vs. LightGBM](https://joaomh.github.io/catboost-lgbm-xgboost/)
 - [Credit Risk Prediction](https://joaomh.github.io/banking-risk-predict/)
-<!-- BLOG-POST-LIST:END -->
+
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -53,7 +53,6 @@
 - [Aula 6 - Projeto de um Controlador Utilizando o Critério de Routh-Hurwitz](https://www.youtube.com/watch?v=LQ4BPl4XZXI)
 - [Estrutura de Dados e Algoritmos em Python #05 - Pilhas ( Stacks )](https://www.youtube.com/watch?v=oeeKHeE5VjY)
 <!-- YOUTUBE:END -->
-
 
 ---
 
