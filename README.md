@@ -6,6 +6,9 @@
 - 🌱 - Always learning new things
 - :movie_camera: - Content Creator at [2001 Engenharia](https://www.youtube.com/2001Engenharia)
 - ⚡ Fun fact: I love fantasy / sci fi books & playing guitar :guitar:
+
+### My Blog/Portfolio
+- [Blog/Portfolio](https://joaomh.github.io/intro.html)
 <!--
 ### Connect with me:
 <!-- [<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" />][linkedin]
