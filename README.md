@@ -45,8 +45,8 @@
 
 ### Latest Blog Posts
 <!-- BLOG:START -->
-- [Boosted Trees: XGBoost vs. CatBoost vs. LightGBM](https://joaomh.github.io/catboost-lgbm-xgboost/)
-- [Credit Risk Prediction](https://joaomh.github.io/banking-risk-predict/)
+- [Boosted Trees: XGBoost vs. CatBoost vs. LightGBM]((https://joaomh.github.io/projects/projects.html)
+- [Credit Risk Prediction](https://joaomh.github.io/projects/2023-09-20-banking-risk-predict/main.html)
 <!-- BLOG:END -->
 
 
