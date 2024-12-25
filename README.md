@@ -1,6 +1,5 @@
 ### Hi there, I'm João Pinheiro :relaxed: :v: <!---<span>&#x1f1e7;&#x1f1f7;</span> --> 🇧🇷
 - :robot: - Just an **AI and Data Science Enthusiast** :computer:
-- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Banco_Ita%C3%BA_logo.svg/1011px-Banco_Ita%C3%BA_logo.svg.png" /> - Data Engineer at Itaú Unibanco
 - :mortar_board: - MSc. Student in Mechanical Engineering :wrench::microscope: - University of São Paulo
 - :mortar_board: - Mechatronics Engineer :wrench::microscope: - University of São Paulo
 - 🌱 - Always learning new things
