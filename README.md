@@ -51,11 +51,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Estrutura de Dados e Algoritmos em Python #07 - Implementando Pilhas (Stacks) e Filas (Queue).](https://www.youtube.com/watch?v=mx_ckrxUn8k)
-- [Estrutura de Dados e Algoritmos em Python #06 - Filas ( Queue )](https://www.youtube.com/watch?v=QHxCdtSyK2s)
-- [Aula 7 - Sistema de Controle, Introdução ao Simulink - Projeto de um Controlador Proporcional.](https://www.youtube.com/watch?v=knbf3Uc1XfE)
-- [Aula 6 - Projeto de um Controlador Utilizando o Critério de Routh-Hurwitz](https://www.youtube.com/watch?v=LQ4BPl4XZXI)
-- [Estrutura de Dados e Algoritmos em Python #05 - Pilhas ( Stacks )](https://www.youtube.com/watch?v=oeeKHeE5VjY)
+- [A Profissão do Futuro Cientista de Dados, Inteligência Artificial](https://www.youtube.com/watch?v=k5wou7ObUBY)
+- [Estrutura de Dados e Algoritmos em Python #08 - Recursividade](https://www.youtube.com/watch?v=R0opvtDycNE)
+- [Como Converter Arquivos Jupyter Notebook para PDF no Colab via LaTeX](https://www.youtube.com/watch?v=a3bvNmiXgV4)
+- [Estrutura de Dados e Algoritmos em Python #07 - Implementando Pilhas &lpar;Stacks&rpar; e Filas &lpar;Queue&rpar;.](https://www.youtube.com/watch?v=mx_ckrxUn8k)
+- [Estrutura de Dados e Algoritmos em Python #06 - Filas &lpar; Queue &rpar;](https://www.youtube.com/watch?v=QHxCdtSyK2s)
 <!-- YOUTUBE:END -->
 
 ---
