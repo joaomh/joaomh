@@ -51,11 +51,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [A Profissão do Futuro Cientista de Dados, Inteligência Artificial](https://www.youtube.com/watch?v=k5wou7ObUBY)
+- [Curso Completo de Ciência de Dados e Inteligência Artificial, será esta a Profissão do Futuro?](https://www.youtube.com/watch?v=efEF94GmLw4)
+- [Livro Gratuito de Ciência de Dados, Inteligencia Artificial e Machine Learning](https://www.youtube.com/watch?v=2c3lvFn5OAc)
+- [Aula 1 - Introdução à Ciência de Dados e Inteligencia Artificial](https://www.youtube.com/watch?v=YLbTieeJ0Cg)
 - [Estrutura de Dados e Algoritmos em Python #08 - Recursividade](https://www.youtube.com/watch?v=R0opvtDycNE)
 - [Como Converter Arquivos Jupyter Notebook para PDF no Colab via LaTeX](https://www.youtube.com/watch?v=a3bvNmiXgV4)
-- [Estrutura de Dados e Algoritmos em Python #07 - Implementando Pilhas &lpar;Stacks&rpar; e Filas &lpar;Queue&rpar;.](https://www.youtube.com/watch?v=mx_ckrxUn8k)
-- [Estrutura de Dados e Algoritmos em Python #06 - Filas &lpar; Queue &rpar;](https://www.youtube.com/watch?v=QHxCdtSyK2s)
 <!-- YOUTUBE:END -->
 
 ---
