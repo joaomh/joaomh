@@ -51,11 +51,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Curso Completo de Ciência de Dados e Inteligência Artificial, será esta a Profissão do Futuro?](https://www.youtube.com/watch?v=efEF94GmLw4)
-- [Livro Gratuito de Ciência de Dados, Inteligencia Artificial e Machine Learning](https://www.youtube.com/watch?v=2c3lvFn5OAc)
-- [Aula 1 - Introdução à Ciência de Dados e Inteligencia Artificial](https://www.youtube.com/watch?v=YLbTieeJ0Cg)
-- [Estrutura de Dados e Algoritmos em Python #08 - Recursividade](https://www.youtube.com/watch?v=R0opvtDycNE)
-- [Como Converter Arquivos Jupyter Notebook para PDF no Colab via LaTeX](https://www.youtube.com/watch?v=a3bvNmiXgV4)
+- [Quais são os Tipos de Aprendizado de Máquina?](https://www.youtube.com/watch?v=bCgjvXxoPes)
+- [O que o computador precisa para passar no Teste de Turing?](https://www.youtube.com/watch?v=L-SY_FEF4CQ)
+- [Definição de Aprendizado de Máquina](https://www.youtube.com/watch?v=AON-usFoGqg)
+- [Aula 2 - Aprendizado de Máquina, Conceitos e Tipos de Aprendizado](https://www.youtube.com/watch?v=qhPH_LmFml4)
+- [Principal Habilidade para trabalhar com Dados](https://www.youtube.com/watch?v=emju3yBty-w)
 <!-- YOUTUBE:END -->
 
 ---
