@@ -51,11 +51,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Onde baixar o Python? Anaconda, Colab](https://www.youtube.com/watch?v=bHj2UV_aoMk)
+- [O grande diferencial do Python para Ciência de Dados e Inteligência Artificial](https://www.youtube.com/watch?v=JhUy7kBMsjk)
+- [Porque utilizar Python para Ciência, Engenharia e Análise de Dados?](https://www.youtube.com/watch?v=di74m5jeeXY)
+- [Aula 3 - Introdução ao Python para Ciência de Dados e Inteligência Artificial](https://www.youtube.com/watch?v=SfJBC_jWbY8)
 - [Quais são os Tipos de Aprendizado de Máquina?](https://www.youtube.com/watch?v=bCgjvXxoPes)
-- [O que o computador precisa para passar no Teste de Turing?](https://www.youtube.com/watch?v=L-SY_FEF4CQ)
-- [Definição de Aprendizado de Máquina](https://www.youtube.com/watch?v=AON-usFoGqg)
-- [Aula 2 - Aprendizado de Máquina, Conceitos e Tipos de Aprendizado](https://www.youtube.com/watch?v=qhPH_LmFml4)
-- [Principal Habilidade para trabalhar com Dados](https://www.youtube.com/watch?v=emju3yBty-w)
 <!-- YOUTUBE:END -->
 
 ---
