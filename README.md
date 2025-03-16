@@ -51,11 +51,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Onde baixar o Python? Anaconda, Colab](https://www.youtube.com/watch?v=bHj2UV_aoMk)
-- [O grande diferencial do Python para Ciência de Dados e Inteligência Artificial](https://www.youtube.com/watch?v=JhUy7kBMsjk)
-- [Porque utilizar Python para Ciência, Engenharia e Análise de Dados?](https://www.youtube.com/watch?v=di74m5jeeXY)
-- [Aula 3 - Introdução ao Python para Ciência de Dados e Inteligência Artificial](https://www.youtube.com/watch?v=SfJBC_jWbY8)
-- [Quais são os Tipos de Aprendizado de Máquina?](https://www.youtube.com/watch?v=bCgjvXxoPes)
+- [Como esta o uso de IA Gen na profissão de dados? E uma profissão que esta com os dias contados?](https://www.youtube.com/watch?v=DRrtzVuWbhg)
+- [Qual a satisfação dos profissionais de Dados? Estão satisfeitos com o trabalho, carreira e salario?](https://www.youtube.com/watch?v=PEoOJv93SUo)
+- [Quais os salários dos profissionais de dados? Realmente ganham muito?](https://www.youtube.com/watch?v=jqBcbCdNeMw)
+- [Quais as principais formações acadêmicas dos profissionais de Dados?](https://www.youtube.com/watch?v=a3AWaMEdXZY)
+- [Precisa ter alguma experiencia para entrar na carreira de Dados?](https://www.youtube.com/watch?v=6qKGEyDzWDU)
 <!-- YOUTUBE:END -->
 
 ---
