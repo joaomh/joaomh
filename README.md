@@ -51,11 +51,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Como esta o uso de IA Gen na profissão de dados? E uma profissão que esta com os dias contados?](https://www.youtube.com/watch?v=DRrtzVuWbhg)
-- [Qual a satisfação dos profissionais de Dados? Estão satisfeitos com o trabalho, carreira e salario?](https://www.youtube.com/watch?v=PEoOJv93SUo)
-- [Quais os salários dos profissionais de dados? Realmente ganham muito?](https://www.youtube.com/watch?v=jqBcbCdNeMw)
-- [Quais as principais formações acadêmicas dos profissionais de Dados?](https://www.youtube.com/watch?v=a3AWaMEdXZY)
-- [Precisa ter alguma experiencia para entrar na carreira de Dados?](https://www.youtube.com/watch?v=6qKGEyDzWDU)
+- [Vou criar aulas e um livro das certificações AWS](https://www.youtube.com/watch?v=E6igwhbZqMk)
+- [Quais os requisitos para conseguir o voucher para a certificação da AWS?](https://www.youtube.com/watch?v=mioQbAcz6QM)
+- [Como Conseguir Pontos para o Voucher da Certificação](https://www.youtube.com/watch?v=-z3weAA4UlA)
+- [Como Conseguir Voucher para Certificação AWS Totalmente Grátis](https://www.youtube.com/watch?v=cKd7Dm8-kso)
+- [Como Conseguir uma Certificação AWS de Graça - Associate e Practicioner](https://www.youtube.com/watch?v=8zvdS-VBoks)
 <!-- YOUTUBE:END -->
 
 ---
