@@ -51,11 +51,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Vou criar aulas e um livro das certificações AWS](https://www.youtube.com/watch?v=E6igwhbZqMk)
-- [Quais os requisitos para conseguir o voucher para a certificação da AWS?](https://www.youtube.com/watch?v=mioQbAcz6QM)
-- [Como Conseguir Pontos para o Voucher da Certificação](https://www.youtube.com/watch?v=-z3weAA4UlA)
-- [Como Conseguir Voucher para Certificação AWS Totalmente Grátis](https://www.youtube.com/watch?v=cKd7Dm8-kso)
-- [Como Conseguir uma Certificação AWS de Graça - Associate e Practicioner](https://www.youtube.com/watch?v=8zvdS-VBoks)
+- [Input no Python como inserir dados de Entrada #python  #dados](https://www.youtube.com/watch?v=APl6NbUz1uk)
+- [Operadores Lógicos no Python](https://www.youtube.com/watch?v=mBp9Dj6cO2Q)
+- [Tipo de dado Binário no Python](https://www.youtube.com/watch?v=Ep_PPR-uUvo)
+- [Conversão de Números no Python #dados #python](https://www.youtube.com/watch?v=aLlWcqP7ba8)
+- [Observações e cuidados com nomes de variáveis no Python  #python #dados](https://www.youtube.com/watch?v=f8Fbz0pDBUU)
 <!-- YOUTUBE:END -->
 
 ---
