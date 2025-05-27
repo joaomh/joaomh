@@ -42,7 +42,8 @@
 
 ## 📰 Latest Google Scholar Publications
 <!--SCHOLAR-START-->
-Will be updated automatically
+- Breast Cancer Classification Using Gradient Boosting Algorithms Focusing on Reducing the False Negative and SHAP for Explainability
+- A Leaf-Level Dataset for Soybean-Cotton Detection and Segmentation
 <!--SCHOLAR-END-->
 
 ### Latest Blog Posts
