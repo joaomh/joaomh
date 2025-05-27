@@ -1,5 +1,6 @@
 from scholarly import scholarly
 # Author info
+scholar_id = 'bXATl38AAAAJ' 
 author = scholarly.search_author_id(scholar_id)
 author = scholarly.fill(author, sections=['publications'])
 
