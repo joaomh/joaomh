@@ -40,13 +40,13 @@
 
 <br />
 
-## 📰 Latest Google Scholar Publications
+## 📰 Latest Publications
 <!--SCHOLAR-START-->
 - Breast Cancer Classification Using Gradient Boosting Algorithms Focusing on Reducing the False Negative and SHAP for Explainability
 - A Leaf-Level Dataset for Soybean-Cotton Detection and Segmentation
 <!--SCHOLAR-END-->
 
-## Latest Blog Posts
+## Latest Projects
 - [Boosted Trees: XGBoost vs. CatBoost vs. LightGBM](https://joaomh.github.io/projects/2023-10-01-catboost-lgbm-xgboost/main.html)
 - [Credit Risk Prediction](https://joaomh.github.io/projects/2023-09-20-banking-risk-predict/main.html)
 
