@@ -2,9 +2,7 @@
 - :robot: - Just an **AI and Data Science Enthusiast** :computer:
 - :mortar_board: - MSc. Student in Mechanical Engineering :wrench::microscope: - University of São Paulo
 - :mortar_board: - Mechatronics Engineer :wrench::microscope: - University of São Paulo
-- 🌱 - Always learning new things
 - :movie_camera: - Content Creator at [2001 Engenharia](https://www.youtube.com/2001Engenharia)
-- ⚡ Fun fact: I love fantasy / sci fi books & playing guitar :guitar:
 
 ### My Blog/Portfolio
 - [Blog/Portfolio](https://joaomh.github.io/intro.html)
@@ -42,11 +40,15 @@
 
 <br />
 
+## 📰 Latest Google Scholar Publications
+<!--SCHOLAR-START-->
+Will be updated automatically
+<!--SCHOLAR-END-->
+
 ### Latest Blog Posts
-<!-- BLOG:START -->
 - [Boosted Trees: XGBoost vs. CatBoost vs. LightGBM](https://joaomh.github.io/projects/2023-10-01-catboost-lgbm-xgboost/main.html)
 - [Credit Risk Prediction](https://joaomh.github.io/projects/2023-09-20-banking-risk-predict/main.html)
-<!-- BLOG:END -->
+
 
 
 ### 📺 Latest YouTube Videos
