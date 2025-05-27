@@ -46,13 +46,13 @@
 - A Leaf-Level Dataset for Soybean-Cotton Detection and Segmentation
 <!--SCHOLAR-END-->
 
-### Latest Blog Posts
+## Latest Blog Posts
 - [Boosted Trees: XGBoost vs. CatBoost vs. LightGBM](https://joaomh.github.io/projects/2023-10-01-catboost-lgbm-xgboost/main.html)
 - [Credit Risk Prediction](https://joaomh.github.io/projects/2023-09-20-banking-risk-predict/main.html)
 
 
 
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Input no Python como inserir dados de Entrada #python  #dados](https://www.youtube.com/watch?v=APl6NbUz1uk)
 - [Operadores Lógicos no Python](https://www.youtube.com/watch?v=mBp9Dj6cO2Q)
