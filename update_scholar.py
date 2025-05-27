@@ -1,33 +1,36 @@
-from scholarly import scholarly
-
-# Your Google Scholar ID (from the URL)
-scholar_id = 'bXATl38AAAAJ' 
-
-# Retrieve author information by ID
-author = scholarly.search_author_id(scholar_id) 
-
-# Fill in the author's data with publications
+# Author info
+author = scholarly.search_author_id(scholar_id)
 author = scholarly.fill(author, sections=['publications'])
 
-# Get the 5 most recent publications
-publications = author['publications'][:10]
+# Order by data
+publications = sorted(
+    author['publications'], 
+    key=lambda x: x.get('bib', {}).get('pub_year', 0), 
+    reverse=True
+)
 
-# Create the markdown list
-pub_list = "\n".join([f"- {pub['bib']['title']}" for pub in publications])
+# 5 recents
+publications = publications[:5]
 
-# Read current README.md
+# Markdown list
+pub_list = "\n".join([
+    f"- [{pub['bib']['title']}]({pub.get('pub_url', 'https://scholar.google.com')})"
+    for pub in publications
+])
+
+# read readme
 with open("README.md", "r") as f:
     readme = f.read()
 
-# Define markers
+# find the place to replace
 marker_start = "<!--SCHOLAR-START-->"
 marker_end = "<!--SCHOLAR-END-->"
 
-# Replace between markers
+# replace
 before = readme.split(marker_start)[0] + marker_start + "\n"
 after = "\n" + marker_end + readme.split(marker_end)[1]
 new_readme = before + pub_list + after
 
-# Write the updated README.md
+# write on readme
 with open("README.md", "w") as f:
     f.write(new_readme)
