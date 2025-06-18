@@ -1,4 +1,4 @@
-### Hi there, I'm João Pinheiro :relaxed: :v: <!---<span>&#x1f1e7;&#x1f1f7;</span> --> 🇧🇷
+### Hi there, I'm João Manoel Herrera Pinheiro :relaxed: :v: <!---<span>&#x1f1e7;&#x1f1f7;</span> --> 🇧🇷
 - :robot: - Just an **AI and Data Science Enthusiast** :computer:
 - :mortar_board: - MSc. Student in Mechanical Engineering :wrench::microscope: - University of São Paulo
 - :mortar_board: - Mechatronics Engineer :wrench::microscope: - University of São Paulo
@@ -42,11 +42,13 @@
 
 ## 📰 Latest Publications
 <!--SCHOLAR-START-->
-- Breast Cancer Classification Using Gradient Boosting Algorithms Focusing on Reducing the False Negative and SHAP for Explainability
+- [The Impact of Feature Scaling In Machine Learning: Effects on Regression and Classification Tasks](https://arxiv.org/abs/2506.08274)
 - A Leaf-Level Dataset for Soybean-Cotton Detection and Segmentation
+- Breast Cancer Classification Using Gradient Boosting Algorithms Focusing on Reducing the False Negative and SHAP for Explainability
 <!--SCHOLAR-END-->
 
 ## Latest Projects
+- [An Introduction to Machine Learning](https://joaomh.github.io/ml-book/intro.html)
 - [Boosted Trees: XGBoost vs. CatBoost vs. LightGBM](https://joaomh.github.io/projects/2023-10-01-catboost-lgbm-xgboost/main.html)
 - [Credit Risk Prediction](https://joaomh.github.io/projects/2023-09-20-banking-risk-predict/main.html)
 
@@ -65,11 +67,6 @@
 
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaomh&?count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaomh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
- <div>
-  <a href="https://github.com/joaomh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaomh&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomh&layout=compact&langs_count=7&theme=monokai"/>
-</div>
 <!-- 
 [website]: https://github.com/2001engenharia
 [youtube]: https://www.youtube.com/2001Engenharia
