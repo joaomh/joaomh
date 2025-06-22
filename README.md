@@ -57,10 +57,10 @@
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Input no Python como inserir dados de Entrada #python  #dados](https://www.youtube.com/shorts/APl6NbUz1uk)
-- [Operadores Lógicos no Python](https://www.youtube.com/watch?v=mBp9Dj6cO2Q)
+- [Operadores Lógicos no Python](https://www.youtube.com/shorts/mBp9Dj6cO2Q)
 - [Tipo de dado Binário no Python](https://www.youtube.com/shorts/Ep_PPR-uUvo)
-- [Conversão de Números no Python #dados #python](https://www.youtube.com/watch?v=aLlWcqP7ba8)
-- [Observações e cuidados com nomes de variáveis no Python  #python #dados](https://www.youtube.com/watch?v=f8Fbz0pDBUU)
+- [Conversão de Números no Python #dados #python](https://www.youtube.com/shorts/aLlWcqP7ba8)
+- [Observações e cuidados com nomes de variáveis no Python  #python #dados](https://www.youtube.com/shorts/f8Fbz0pDBUU)
 <!-- YOUTUBE:END -->
 
 ---
