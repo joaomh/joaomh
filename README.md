@@ -56,11 +56,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Input no Python como inserir dados de Entrada #python  #dados](https://www.youtube.com/shorts/APl6NbUz1uk)
-- [Operadores Lógicos no Python](https://www.youtube.com/shorts/mBp9Dj6cO2Q)
-- [Tipo de dado Binário no Python](https://www.youtube.com/shorts/Ep_PPR-uUvo)
-- [Conversão de Números no Python #dados #python](https://www.youtube.com/shorts/aLlWcqP7ba8)
-- [Observações e cuidados com nomes de variáveis no Python  #python #dados](https://www.youtube.com/shorts/f8Fbz0pDBUU)
+- [Python Funções Built in &lpar;Funções Embutidas&rpar; - Parte 2](https://www.youtube.com/shorts/pEfrBH5eZq8)
+- [Aula 7 - Utilizando o match-case no Python](https://www.youtube.com/watch?v=V2v9D4PdFW0)
+- [Python Funções Built in &lpar;Funções Embutidas&rpar; - Parte 1](https://www.youtube.com/shorts/6X_0slfmi6M)
+- [Python For, Loops, While - Parte 4](https://www.youtube.com/shorts/UMtEn9DKJVw)
+- [Python For, Loops, While - Parte 3](https://www.youtube.com/shorts/JCWuKc4qyd8)
 <!-- YOUTUBE:END -->
 
 ---
