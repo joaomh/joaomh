@@ -56,11 +56,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Python Funções Built in &lpar;Funções Embutidas&rpar; - Parte 2](https://www.youtube.com/shorts/pEfrBH5eZq8)
-- [Aula 7 - Utilizando o match-case no Python](https://www.youtube.com/watch?v=V2v9D4PdFW0)
-- [Python Funções Built in &lpar;Funções Embutidas&rpar; - Parte 1](https://www.youtube.com/shorts/6X_0slfmi6M)
-- [Python For, Loops, While - Parte 4](https://www.youtube.com/shorts/UMtEn9DKJVw)
-- [Python For, Loops, While - Parte 3](https://www.youtube.com/shorts/JCWuKc4qyd8)
+- [Como utiliza o comando del no python e usar as Listas/List em Python como Stacks &lpar;Pilhas&rpar;](https://www.youtube.com/shorts/1wGwcYyNglk)
+- [Como ordenar e copiar Listas/List em Python](https://www.youtube.com/shorts/QE7vFyX4avA)
+- [Removendo itens de uma Lista/List em Python](https://www.youtube.com/shorts/ICkbj-rvo58)
+- [Como acessar elementos na Lista/List em Python?  E como dar append e adicionar elementos no final](https://www.youtube.com/shorts/GzY1sLLjT1Y)
+- [O que são listas &lpar;list&rpar; em Python?](https://www.youtube.com/shorts/dlPO9SijDBY)
 <!-- YOUTUBE:END -->
 
 ---
