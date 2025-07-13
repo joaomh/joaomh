@@ -56,11 +56,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Como utiliza o comando del no python e usar as Listas/List em Python como Stacks &lpar;Pilhas&rpar;](https://www.youtube.com/shorts/1wGwcYyNglk)
-- [Como ordenar e copiar Listas/List em Python](https://www.youtube.com/shorts/QE7vFyX4avA)
-- [Removendo itens de uma Lista/List em Python](https://www.youtube.com/shorts/ICkbj-rvo58)
-- [Como acessar elementos na Lista/List em Python?  E como dar append e adicionar elementos no final](https://www.youtube.com/shorts/GzY1sLLjT1Y)
-- [O que são listas &lpar;list&rpar; em Python?](https://www.youtube.com/shorts/dlPO9SijDBY)
+- [Utilizando o método fromkeys em Dicionários no Python](https://www.youtube.com/shorts/Pjml8tiMclI)
+- [Métodos de Dicionários &lpar;Dict&rpar; no Python como acessar os itens &lpar;items&rpar; e valores](https://www.youtube.com/shorts/uVTw4do0W18)
+- [Métodos de Dicionários &lpar;Dict&rpar; no Python como acessar os itens &lpar;items&rpar;](https://www.youtube.com/shorts/hNUIdZwGzCI)
+- [O que são a estrutura de dados Dicionários &lpar;Dict&rpar; no Python? Como definir eles e acessar? Parte 2](https://www.youtube.com/shorts/GKDtuT4yI54)
+- [O que são a estrutura de dados Dicionários &lpar;Dict&rpar; no Python? Como definir eles? Parte 1](https://www.youtube.com/shorts/dzZouvSKKjs)
 <!-- YOUTUBE:END -->
 
 ---
