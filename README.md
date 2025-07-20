@@ -56,11 +56,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Utilizando o método fromkeys em Dicionários no Python](https://www.youtube.com/shorts/Pjml8tiMclI)
-- [Métodos de Dicionários &lpar;Dict&rpar; no Python como acessar os itens &lpar;items&rpar; e valores](https://www.youtube.com/shorts/uVTw4do0W18)
-- [Métodos de Dicionários &lpar;Dict&rpar; no Python como acessar os itens &lpar;items&rpar;](https://www.youtube.com/shorts/hNUIdZwGzCI)
-- [O que são a estrutura de dados Dicionários &lpar;Dict&rpar; no Python? Como definir eles e acessar? Parte 2](https://www.youtube.com/shorts/GKDtuT4yI54)
-- [O que são a estrutura de dados Dicionários &lpar;Dict&rpar; no Python? Como definir eles? Parte 1](https://www.youtube.com/shorts/dzZouvSKKjs)
+- [Resumo de todas as estruturas de Dados no Python - Listas, Tuplas, Conjuntos, Dicionários, Arrays](https://www.youtube.com/shorts/LvzdHp-kR78)
+- [Outros métodos de Array em Python para gerenciar memória](https://www.youtube.com/shorts/AdOjlQiqfDs)
+- [Utilizando tolist, reverse em Arrays no Python](https://www.youtube.com/shorts/JK-LqukTf94)
+- [Utilizando métodos em Arrays no Python, apeend, remover elementos](https://www.youtube.com/shorts/eWhFQQfCEL0)
+- [O que são Arrays em Python e como definir eles &lpar;int, float, double&rpar; - Parte 2](https://www.youtube.com/shorts/KlhLS7n3OF0)
 <!-- YOUTUBE:END -->
 
 ---
