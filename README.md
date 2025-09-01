@@ -43,6 +43,7 @@
 ## 📰 Latest Publications
 <!--SCHOLAR-START-->
 - [The Impact of Feature Scaling In Machine Learning: Effects on Regression and Classification Tasks](https://scholar.google.com)
+- [A Synthetic Dataset for Manometry Recognition in Robotic Applications](https://scholar.google.com)
 - [A Leaf-Level Dataset for Soybean-Cotton Detection and Segmentation](https://scholar.google.com)
 - [Breast Cancer Classification Using Gradient Boosting Algorithms Focusing on Reducing the False Negative and SHAP for Explainability](https://scholar.google.com)
 <!--SCHOLAR-END-->
