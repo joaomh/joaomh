@@ -56,11 +56,11 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Meu Setup para Dados e Inteligência Artificial](https://www.youtube.com/watch?v=Lrb9fCPPWX4)
 - [Resumo de todas as estruturas de Dados no Python - Listas, Tuplas, Conjuntos, Dicionários, Arrays](https://www.youtube.com/shorts/LvzdHp-kR78)
 - [Outros métodos de Array em Python para gerenciar memória](https://www.youtube.com/shorts/AdOjlQiqfDs)
 - [Utilizando tolist, reverse em Arrays no Python](https://www.youtube.com/shorts/JK-LqukTf94)
 - [Utilizando métodos em Arrays no Python, apeend, remover elementos](https://www.youtube.com/shorts/eWhFQQfCEL0)
-- [O que são Arrays em Python e como definir eles &lpar;int, float, double&rpar; - Parte 2](https://www.youtube.com/shorts/KlhLS7n3OF0)
 <!-- YOUTUBE:END -->
 
 ---
