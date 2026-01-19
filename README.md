@@ -1,6 +1,7 @@
 ### Hi there, I'm João Manoel Herrera Pinheiro :relaxed: :v: <!---<span>&#x1f1e7;&#x1f1f7;</span> --> 🇧🇷
 - :robot: - Just an **AI and Data Science Enthusiast** :computer:
-- :mortar_board: - MSc. Student in Mechanical Engineering :wrench::microscope: - University of São Paulo
+- :mortar_board: - PhD. Candidate in Eletrical Engineering :microscope::framed_picture:👁️🧠 - University of São Paulo
+- :mortar_board: - MSc. in Mechanical Engineering :wrench::microscope::robot: - University of São Paulo
 - :mortar_board: - Mechatronics Engineer :wrench::microscope: - University of São Paulo
 - :movie_camera: - Content Creator at [2001 Engenharia](https://www.youtube.com/2001Engenharia)
 
