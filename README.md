@@ -41,10 +41,10 @@
 <br />
 
 ## 📰 Latest Publications
-- [A Synthetic Dataset for Manometry Recognition in Robotic Applications](https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=bXATl38AAAAJ&citation_for_view=bXATl38AAAAJ:Tyk-4Ss8FVUC)
-- [The Impact of Feature Scaling In Machine Learning: Effects on Regression and Classification Tasks](https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=bXATl38AAAAJ&citation_for_view=bXATl38AAAAJ:zYLM7Y9cAGgC)
-- [A Leaf-Level Dataset for Soybean-Cotton Detection and Segmentation](https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=bXATl38AAAAJ&citation_for_view=bXATl38AAAAJ:UeHWp8X0CEIC)
-- [Breast Cancer Classification Using Gradient Boosting Algorithms Focusing on Reducing the False Negative and SHAP for Explainability](https://scholar.google.com/citations?view_op=view_citation&hl=pt-BR&user=bXATl38AAAAJ&citation_for_view=bXATl38AAAAJ:2osOgNQ5qMEC)
+- [A Synthetic Dataset for Manometry Recognition in Robotic Applications](https://doi.org/10.1109/LARS69345.2025.11272958)
+- [The Impact of Feature Scaling In Machine Learning: Effects on Regression and Classification Tasks](https://doi.org/10.1109/ACCESS.2025.3635541)
+- [A Leaf-Level Dataset for Soybean-Cotton Detection and Segmentation](https://doi.org/10.48550/arXiv.2503.01605)
+- [Breast Cancer Classification Using Gradient Boosting Algorithms Focusing on Reducing the False Negative and SHAP for Explainability](https://doi.org/10.4114/intartif.vol28iss75pp63-80)
 
 
 ## Latest Projects
