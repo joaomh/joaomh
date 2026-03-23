@@ -44,6 +44,8 @@
 <br />
 
 ## 📰 Latest Publications
+- [Automated identification of Ichneumonoidea wasps via YOLO-based deep learning: Integrating HiresCam for Explainable AI](https://arxiv.org/abs/2603.16351)
+- [Descriptor: Dataset of Parasitoid Wasps and Associated Hymenoptera (DAPWH)](https://arxiv.org/abs/2603.16351)
 - [A Synthetic Dataset for Manometry Recognition in Robotic Applications](https://doi.org/10.1109/LARS69345.2025.11272958)
 - [The Impact of Feature Scaling In Machine Learning: Effects on Regression and Classification Tasks](https://doi.org/10.1109/ACCESS.2025.3635541)
 - [A Leaf-Level Dataset for Soybean-Cotton Detection and Segmentation](https://doi.org/10.48550/arXiv.2503.01605)
