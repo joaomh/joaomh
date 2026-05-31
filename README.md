@@ -2,7 +2,7 @@
 - :robot: - Just an **AI and Data Science Enthusiast** :computer:
 - :mortar_board: - PhD. Candidate in Eletrical Engineering :microscope::framed_picture:👁️🧠 - University of São Paulo
 - :mortar_board: - MSc. in Mechanical Engineering :wrench::microscope::robot: - University of São Paulo
-- :mortar_board: - MBA, Specialization in Software Engineering :computer::robot: - University of São Paulo
+- :mortar_board: - Specialization in Software Engineering :computer::robot: - University of São Paulo
 - :mortar_board: - Mechatronics Engineer :wrench::microscope: - University of São Paulo
 - :movie_camera: - Content Creator at [2001 Engenharia](https://www.youtube.com/2001Engenharia)
 - 🧠🧩 - Autism twice exceptional (2e)
@@ -51,13 +51,12 @@
 - [Breast Cancer Classification Using Gradient Boosting Algorithms Focusing on Reducing the False Negative and SHAP for Explainability](https://doi.org/10.4114/intartif.vol28iss75pp63-80)
 - [Um estudo sobre algoritmos de Boosting e a otimização de hiperparâmetros utilizando optuna](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=bXATl38AAAAJ&citation_for_view=bXATl38AAAAJ:LkGwnXOMwfcC)
 
-
+<!---
 ## Latest Projects
 - [An Introduction to Machine Learning](https://joaomh.github.io/ml-book/intro.html)
 - [Boosted Trees: XGBoost vs. CatBoost vs. LightGBM](https://joaomh.github.io/projects/2023-10-01-catboost-lgbm-xgboost/main.html)
 - [Credit Risk Prediction](https://joaomh.github.io/projects/2023-09-20-banking-risk-predict/main.html)
-
-
+--->
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
